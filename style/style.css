@@ -31,7 +31,7 @@ p, li {
 }
 /*MODIFICHE QUARTA SEZIONE:*/
 table {
-    border: 0px;
+    border-collapse: collapse;
     font-size: 20px;
     
 }
