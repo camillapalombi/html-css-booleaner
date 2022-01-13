@@ -29,3 +29,17 @@ font-size: 50px;
 p, li {
     font-size: 20px;
 }
+/*MODIFICHE QUARTA SEZIONE:*/
+table {
+    border: 0px;
+    font-size: 20px;
+    
+}
+th {
+    background-color: royalblue;
+    color: white;
+    
+}
+.azzurro {
+    background-color: turquoise;
+}
