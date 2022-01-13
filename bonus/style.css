@@ -1,0 +1,90 @@
+/*MODIFICHE DELLA PRIMA SEZIONE:*/
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    width: 1500px;
+    height: 300px;
+    position: relative;
+    display: inline-block;
+    }
+    
+    .logo {
+    width: 500px;
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+    }
+    h1 {
+    font-size: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    }
+    .referenze {
+        color: lightslategrey;
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    /*MODIFICHE TERZA SEZIONE:*/
+    .evidenziato {
+        background-color: yellow;
+    }
+    p, li {
+        font-size: 20px;
+    }
+    /*MODIFICHE QUARTA SEZIONE:*/
+    table {
+        border-collapse: collapse;
+        font-size: 20px;
+        
+    }
+    th {
+        background-color: royalblue;
+        color: white;
+        
+    }
+    .azzurro {
+        background-color: turquoise;
+    }
+    /*MODIFICHE QUINTA SEZIONE:FOOTER*/
+    .grey {
+        color: slategrey;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .immagine {
+        position: relative;
+        display: inline-block;
+    }
+    .immagine {
+        background-image: url(../img/monitor.jpg);
+        position: relative;
+        display: block;
+        width: 300px;
+        height: 200px;
+        background-repeat: no-repeat;
+    }
+    .lorem, .lorem2 {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        font-size: 20px;
+        color: snow;
+        font-weight: bold;
+    }
+    .immagine2 {
+        background-image: url(../img/graph.jpg);
+        position: relative;
+        display: inline-block;
+        width: 300px;
+        height: 200px;
+        background-repeat: no-repeat;
+        margin-top: 20px;
+    }
+    main, footer {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    
+    
