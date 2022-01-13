@@ -8,7 +8,7 @@ position: relative;
 display: inline-block;
 }
 
-span {
+.logo {
 width: 500px;
 position: absolute;
 left: 0%;
@@ -21,4 +21,11 @@ font-size: 50px;
     color: lightslategrey;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*MODIFICHE TERZA SEZIONE:*/
+.evidenziato {
+    background-color: yellow;
+}
+p, li {
+    font-size: 20px;
 }
