@@ -6,6 +6,7 @@ width: 1500px;
 height: 300px;
 position: relative;
 display: inline-block;
+background-color: aqua;
 }
 
 .logo {
